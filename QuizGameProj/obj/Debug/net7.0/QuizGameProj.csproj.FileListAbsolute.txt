@@ -1,0 +1,15 @@
+C:\Users\asmaa\Desktop\.net track\c#\QuizGameProj\QuizGameProj\bin\Debug\net7.0\QuizGameProj.exe
+C:\Users\asmaa\Desktop\.net track\c#\QuizGameProj\QuizGameProj\bin\Debug\net7.0\QuizGameProj.deps.json
+C:\Users\asmaa\Desktop\.net track\c#\QuizGameProj\QuizGameProj\bin\Debug\net7.0\QuizGameProj.runtimeconfig.json
+C:\Users\asmaa\Desktop\.net track\c#\QuizGameProj\QuizGameProj\bin\Debug\net7.0\QuizGameProj.dll
+C:\Users\asmaa\Desktop\.net track\c#\QuizGameProj\QuizGameProj\bin\Debug\net7.0\QuizGameProj.pdb
+C:\Users\asmaa\Desktop\.net track\c#\QuizGameProj\QuizGameProj\obj\Debug\net7.0\QuizGameProj.csproj.AssemblyReference.cache
+C:\Users\asmaa\Desktop\.net track\c#\QuizGameProj\QuizGameProj\obj\Debug\net7.0\QuizGameProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asmaa\Desktop\.net track\c#\QuizGameProj\QuizGameProj\obj\Debug\net7.0\QuizGameProj.AssemblyInfoInputs.cache
+C:\Users\asmaa\Desktop\.net track\c#\QuizGameProj\QuizGameProj\obj\Debug\net7.0\QuizGameProj.AssemblyInfo.cs
+C:\Users\asmaa\Desktop\.net track\c#\QuizGameProj\QuizGameProj\obj\Debug\net7.0\QuizGameProj.csproj.CoreCompileInputs.cache
+C:\Users\asmaa\Desktop\.net track\c#\QuizGameProj\QuizGameProj\obj\Debug\net7.0\QuizGameProj.dll
+C:\Users\asmaa\Desktop\.net track\c#\QuizGameProj\QuizGameProj\obj\Debug\net7.0\refint\QuizGameProj.dll
+C:\Users\asmaa\Desktop\.net track\c#\QuizGameProj\QuizGameProj\obj\Debug\net7.0\QuizGameProj.pdb
+C:\Users\asmaa\Desktop\.net track\c#\QuizGameProj\QuizGameProj\obj\Debug\net7.0\QuizGameProj.genruntimeconfig.cache
+C:\Users\asmaa\Desktop\.net track\c#\QuizGameProj\QuizGameProj\obj\Debug\net7.0\ref\QuizGameProj.dll
